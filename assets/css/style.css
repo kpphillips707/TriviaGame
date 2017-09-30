@@ -1,0 +1,22 @@
+body{background-image: url("https://s3.amazonaws.com/videoblocks-content/video/thumbnail/UD7CEz6/silhouette-sports-background-activity-olympic-flat-3d-space_7ycenp2d__F0000.png");
+color: white;
+
+}
+
+h1{
+	color: black;
+}
+.container{
+
+	
+}
+
+#results { 
+background: #dddada; 
+color: 000000; 
+padding: 3px; 
+text-align: center; 
+width: 200px; 
+cursor: pointer; 
+border: 1px solid gray; 
+}
