@@ -1,5 +1,5 @@
 function myFunction() {
-    alert('Hello');
+    alert('Time Up');
 }
 
 /*var ques1 = ($("input[@name=q1]:checked").val() != "c");
